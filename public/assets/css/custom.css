@@ -1,0 +1,29 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/* Image Galery Thumbnail in Table */
+.img-galery{
+    width: 100%;
+    height: auto;
+}
+
+.btn-toolbar .btn {
+    margin: 0 8px 10px 0;
+}
+
+.modal-backdrop, .modal-backdrop.in{
+    display: none;
+}
+
+.gallery {
+    width: auto !important;
+    padding: 0;
+}
+
+.gallery-item {
+    margin-bottom: 0 !important;
+}

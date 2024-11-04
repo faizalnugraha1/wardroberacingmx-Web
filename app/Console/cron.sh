@@ -1,0 +1,1 @@
+cd /home/u474182519/domains/wardroberacing.store/public_html && php artisan schedule:run >> /dev/null 2>&1
